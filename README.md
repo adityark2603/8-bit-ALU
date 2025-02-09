@@ -19,3 +19,8 @@ Boolean Expressions for the operations used in this project:
 4. Subtraction -> y = a - b
 5. Set Less than -> a < b
 
+8-Bit ALU Block Level Diagram:
+![image](https://github.com/user-attachments/assets/5b029ddc-2e86-4cd9-b923-fc3b1c087544)
+
+
+
